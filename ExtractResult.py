@@ -201,7 +201,7 @@ workbook = xlsxwriter.Workbook('resultlist.xlsx')
 worksheet = workbook.add_worksheet()
 count = 0;
 result = list()
-regno1 = 14000
+regno1 = 1
 row = 1
 col = 0
 print "Preparing......"
